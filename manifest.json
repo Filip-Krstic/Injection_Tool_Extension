@@ -1,0 +1,24 @@
+{
+  "name": "InjectionTools",
+  "version": "1",
+  "manifest_version": 2,
+  "description": "Injection tool",
+  "background": {
+
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Injection Tool",
+    "default_icon": "icon.png"
+
+  },
+  "permissions": [
+    "https://*/*",
+    "http://*/*",
+    "tabs",
+    "cookies"
+  ]
+}
