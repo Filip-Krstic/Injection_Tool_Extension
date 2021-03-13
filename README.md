@@ -8,3 +8,6 @@ An injection tool which specializes in cookie session swaps, username + password
 4) Import this repository
 5) Play around with it
 6) Leave a comment on what changes I could do
+
+
+Please give credit.
