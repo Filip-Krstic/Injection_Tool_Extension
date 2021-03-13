@@ -1,5 +1,5 @@
 # Injection_Tool_Extension
-An injection tool which specializes in cookie session swaps, username + password phishing and inner html manual analyzing. [only for demonstration purposes]
+An injection tool which specializes in cookie session swaps, username + password phishing and inner html manual analyzing. [only for educational purposes, it is not to be used maliciously]
 
 # How to download the extension?
 1) Download this repository
